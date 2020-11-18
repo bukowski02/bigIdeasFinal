@@ -1,8 +1,8 @@
 # Big Ideas Final Project
 ### Team Name: Anti-Step League
 ##### Group Members: 
-James Duty, jdd89@pitt.edu
-Daniel Bukowski, dab315 @pitt.edu
+* James Duty, jdd89@pitt.edu
+* Daniel Bukowski, dab315 @pitt.edu
 ##### Data Sets:
 * Fire Incidents by Neigborhod: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 * Recorded Crimes in Pittburgh: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
@@ -13,4 +13,6 @@ Daniel Bukowski, dab315 @pitt.edu
 #### Abstract:
 Accidents and unexpected events are an unavoidable part of life that affect everybody in different ways, whether it be fires, crime, or a simple fall down the stairs. Accidents can change someone's life in an instant and therefore, are a highly important factor to consider when defining the best neighborhood. In this project, we will analyze the best neighborhood in Pittsburgh through the lens of accidents, measuring both accidents that have occurred and accidents that have the potential to occurr. Specifically, we will quantifying this by through the datasets that track crime, fire incidents, and steps.
 
-Overall, Squirrel Hill North was the best neighborhood, with Windgap, North Oakland, and Squirrel Hill South closely following. This was determined by using three metrics: fire, crime, and steps. Fire data was used to determine which neighborhood has the least fires. Crime data was used to determine where the least amount of crime is. Step data was used to determine which neighborhood has the lowest number of stairs. By combining these three metrics, we determined a safety rating for each neighborhood.
+Fire data was used to determine which neighborhood has the least fires. Crime data was used to determine where the least amount of crime is. Step data was used to determine which neighborhood has the lowest number of stairs. By combining these three metrics, we determined a safety rating for each neighborhood.
+
+After analyzing the data, we have decided that Squirrel Hill North was the safest and therefore, best neighborhood in Pittsburgh. Windgap, North Oakland, and Squirrel Hill South closely followed.
