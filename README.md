@@ -1,8 +1,8 @@
 # Big Ideas Final Project
 ### Team Name: Anti-Step League
 ##### Group Members: 
-James Duty, jdd89@pitt.edu
-Daniel Bukowski, dab315 @pitt.edu
+* James Duty, jdd89@pitt.edu
+* Daniel Bukowski, dab315 @pitt.edu
 ##### Data Sets:
 * Fire Incidents by Neigborhod: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 * Recorded Crimes in Pittburgh: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
@@ -11,4 +11,4 @@ Daniel Bukowski, dab315 @pitt.edu
 * Neighborhood Map Data of Pittsburgh: http://pghgis-pittsburghpa.opendata.arcgis.com/datasets/dbd133a206cc4a3aa915cb28baa60fd4_0.zip
 
 #### Abstract:
-Accidents are an unavoidable part of life that affect everybody in different ways, whether it be fires, traffic accidents, or a simple fall down the stairs. Accidents can change someone's life in an instant and therefore, are a highly important factor to consider when defining the best neighborhood. In this project, we will analyze the best neighborhood in Pittsburgh through the lens of accidents, measuring both accidents that have occurred and accidents that have the potential to occurr. Specifically, we will quantifying this by through the datasets  that track traffic accidents, fire incidents, and steps.
+Accidents are an unavoidable part of life that affect everybody in different ways, whether it be fires, crime, or a simple fall down the stairs. Accidents can change someone's life in an instant and therefore, are a highly important factor to consider when defining the best neighborhood. In this project, we will analyze the best neighborhood in Pittsburgh through the lens of safety, measuring both accidents that have occurred and accidents that have the potential to occurr. Specifically, we will quantifying this by through the datasets that track crime, fire incidents, and steps. After analyzing the datasets, we have determined that Squirrel Hill North was the safest therefore best neighborhood to live in, in Pittsburgh.
