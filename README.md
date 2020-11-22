@@ -2,7 +2,7 @@
 ### Team Name: Anti-Step League
 ##### Group Members: 
 * James Duty, jdd89@pitt.edu
-* Daniel Bukowski, dab315 @pitt.edu
+* Daniel Bukowski, dab315@pitt.edu
 ##### Data Sets:
 * Fire Incidents by Neigborhod: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 * Recorded Crimes in Pittburgh: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
